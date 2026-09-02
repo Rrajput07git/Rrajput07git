@@ -2,14 +2,17 @@
 
 ### Software Developer · Full-Stack Developer · Builder
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Rrajput07git&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
 
 > I enjoy turning ideas into practical, reliable software.
 
-I'm a software developer focused on building modern web and mobile applications,
-improving my engineering skills, and solving real-world problems through code.
+I'm a software developer focused on building modern web and mobile applications, improving my engineering skills, and solving real-world problems through code.
 
 * 🚀 Building and shipping software
 * 🌐 Developing modern web applications
@@ -64,29 +67,14 @@ improving my engineering skills, and solving real-world problems through code.
 
 ## 🚀 What I Build
 
-### 🌐 Web Applications
+| Area         | Technologies                                 |
+| ------------ | -------------------------------------------- |
+| 🌐 Web       | HTML · CSS · JavaScript · React.js · Next.js |
+| 📱 Mobile    | React Native                                 |
+| ⚙️ Backend   | Python · Django                              |
+| 🗄️ Database | MySQL                                        |
 
-Building responsive and modern web applications using:
-
-**HTML · CSS · JavaScript · React.js · Next.js**
-
-### 📱 Mobile Applications
-
-Creating cross-platform mobile experiences with:
-
-**React Native**
-
-### ⚙️ Backend Systems
-
-Developing backend applications and APIs with:
-
-**Python · Django**
-
-### 🗄️ Data
-
-Working with relational databases using:
-
-**MySQL**
+I enjoy taking ideas from **concept → development → deployment**, with a focus on practical solutions and maintainable code.
 
 ---
 
@@ -106,8 +94,28 @@ Working with relational databases using:
 └──────────────────────────────────────────────────────────┘
 ```
 
-I'm continuously working on becoming a better engineer by building,
-experimenting, and learning from real-world problems.
+I'm continuously working on becoming a better engineer by building, experimenting, and learning from real-world problems.
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Rrajput07git/Rrajput07git/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Rrajput07git/Rrajput07git/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/Rrajput07git/Rrajput07git/output/github-snake.svg"
+    />
+  </picture>
+</p>
 
 ---
 
@@ -125,35 +133,30 @@ experimenting, and learning from real-world problems.
 
 ## 📊 GitHub
 
-**Open source • Contributions • Continuous learning**
-
-[![GitHub followers](https://img.shields.io/github/followers/Rrajput07git?style=for-the-badge\&logo=github)](https://github.com/Rrajput07git)
-
-[![GitHub stars](https://img.shields.io/github/stars/Rrajput07git?style=for-the-badge\&logo=github)](https://github.com/Rrajput07git?tab=stars)
+<p align="center">
+  <a href="https://github.com/Rrajput07git">
+    <img src="https://img.shields.io/github/followers/Rrajput07git?style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Rrajput07git?tab=stars">
+    <img src="https://img.shields.io/github/stars/Rrajput07git?style=for-the-badge&logo=github" alt="GitHub Stars" />
+  </a>
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/Rrajput07git">
-  <img src="https://img.shields.io/badge/GitHub-Rrajput07git-181717?style=for-the-badge&logo=github" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/Rrajput07git">
+    <img src="https://img.shields.io/badge/GitHub-Rrajput07git-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
 ### 💭 *"Build things that matter."*
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rrajput07git\&style=for-the-badge)
-
-<br><br>
 
 ⭐ **If you find something interesting here, consider giving it a star!**
 
