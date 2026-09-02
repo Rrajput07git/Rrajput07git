@@ -1,31 +1,32 @@
+```yaml
 name: Generate Snake
 
 on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
-generate:
-runs-on: ubuntu-latest
+  generate:
+    runs-on: ubuntu-latest
 
-```
-permissions:
-  contents: write
+    permissions:
+      contents: write
 
-steps:
-  - name: Generate contribution snake
-    uses: Platane/snk@v3
-    with:
-      github_user_name: Rrajput07git
-      outputs: |
-        output/github-contribution-grid-snake.svg
-        output/github-contribution-grid-snake-dark.svg?palette=github-dark
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Rrajput07git
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-  - name: Push snake to output branch
-    uses: EndBug/add-and-commit@v9
-    with:
-      message: "Generate contribution snake"
-      add: "output"
-      push: true
+      - name: Publish snake
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
