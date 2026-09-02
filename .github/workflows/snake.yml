@@ -1,19 +1,23 @@
-
 name: Generate Snake
 
-"on": workflow_dispatch
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
     permissions:
       contents: write
-
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Rrajput07git
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -25,4 +29,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
