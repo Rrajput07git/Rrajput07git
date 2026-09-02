@@ -1,16 +1,6 @@
-<div align="center">
-
 # 👋 Hey, I'm Ritik Rajput
 
-### Software Developer · Builder · Problem Solver
-
-<p>
-  <img src="https://img.shields.io/badge/Code-Crafting-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20Things-success?style=for-the-badge" />
-</p>
-
-</div>
+### Software Developer · Full-Stack Developer · Builder
 
 ---
 
@@ -18,11 +8,13 @@
 
 > I enjoy turning ideas into practical, reliable software.
 
-I'm a software developer focused on building modern applications, improving
-my engineering skills, and solving problems through code.
+I'm a software developer focused on building modern web and mobile applications,
+improving my engineering skills, and solving real-world problems through code.
 
 * 🚀 Building and shipping software
-* 🧠 Learning something new every day
+* 🌐 Developing modern web applications
+* 📱 Building cross-platform mobile applications
+* 🧠 Continuously learning and improving
 * ⚡ Interested in clean, maintainable code
 * 🏢 Working with **MelorraTech**
 * 🎯 Always looking for the next problem worth solving
@@ -31,49 +23,70 @@ my engineering skills, and solving problems through code.
 
 ## ⚡ My Development Stack
 
-### Languages
+### 🌐 Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
-### Frontend
+### 📱 Mobile Development
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-### Backend & Tools
+### 🐍 Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-> **Note:** Update the technologies above so they match the tools you actually use.
+### 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🛠️ Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I Build
 
-<div align="center">
+### 🌐 Web Applications
 
-| Project              | Description                               |
-| :------------------- | :---------------------------------------- |
-| 🔥 **Project One**   | A project I'm currently building          |
-| ⚡ **Project Two**    | Something I built to solve a real problem |
-| 🧩 **Project Three** | An experiment or side project             |
+Building responsive and modern web applications using:
 
-</div>
+**HTML · CSS · JavaScript · React.js · Next.js**
 
-> Replace these with your actual repositories once you have public projects.
+### 📱 Mobile Applications
+
+Creating cross-platform mobile experiences with:
+
+**React Native**
+
+### ⚙️ Backend Systems
+
+Developing backend applications and APIs with:
+
+**Python · Django**
+
+### 🗄️ Data
+
+Working with relational databases using:
+
+**MySQL**
 
 ---
 
@@ -83,6 +96,9 @@ my engineering skills, and solving problems through code.
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
 │   💻  Building                                            │
+│   🌐  Developing Web Applications                         │
+│   📱  Exploring Mobile Development                        │
+│   🐍  Working with Python & Django                        │
 │   🧠  Learning                                            │
 │   🔧  Improving                                           │
 │   🚀  Shipping                                             │
@@ -95,27 +111,25 @@ experimenting, and learning from real-world problems.
 
 ---
 
-## 📊 GitHub
+## 🎯 Current Goals
 
-<div align="center">
+* 🚀 Build and publish more projects
+* 🧠 Improve system design knowledge
+* ⚡ Write cleaner and more maintainable code
+* 🌐 Build scalable web applications
+* 📱 Improve mobile development skills
+* 🤝 Contribute to open source
+* 📚 Keep learning and experimenting
+
+---
+
+## 📊 GitHub
 
 **Open source • Contributions • Continuous learning**
 
 [![GitHub followers](https://img.shields.io/github/followers/Rrajput07git?style=for-the-badge\&logo=github)](https://github.com/Rrajput07git)
 
 [![GitHub stars](https://img.shields.io/github/stars/Rrajput07git?style=for-the-badge\&logo=github)](https://github.com/Rrajput07git?tab=stars)
-
-</div>
-
----
-
-## 🎯 Current Goals
-
-* [ ] Build and publish more projects
-* [ ] Improve system design knowledge
-* [ ] Write cleaner and more maintainable code
-* [ ] Contribute to open source
-* [ ] Keep learning and experimenting
 
 ---
 
