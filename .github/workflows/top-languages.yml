@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   generate-languages:
@@ -26,7 +26,7 @@ jobs:
 
       - name: Generate language statistics
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
           GITHUB_USERNAME: Rrajput07git
         run: python .github/scripts/top_languages.py
 
