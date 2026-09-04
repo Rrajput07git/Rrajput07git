@@ -150,15 +150,14 @@ I'm continuously working on becoming a better engineer by building, experimentin
 
 
 
-<!-- ### 💻 Most Used Languages -->
+### 💻 Most Used Languages
 
-<!-- <p align="center">
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrajput07git&layout=compact&langs_count=8&hide_border=true"
+    src="./profile/top-langs.svg"
     alt="Ritik Rajput Most Used Languages"
   />
-</p> -->
-
+</p>
 
 
 
