@@ -131,7 +131,7 @@ I'm continuously working on becoming a better engineer by building, experimentin
 
 ---
 
-## 📊 GitHub
+
 
 <!-- <p align="center">
   <a href="https://github.com/Rrajput07git">
@@ -163,6 +163,7 @@ I'm continuously working on becoming a better engineer by building, experimentin
     alt="Ritik Rajput Most Used Languages"
   />
 </p>
+
 
 ---
 
