@@ -161,3 +161,4 @@ I'm continuously working on becoming a better engineer by building, experimentin
 ⭐ **If you find something interesting here, consider giving it a star!**
 
 </div>
+<div align="center"> © 2026 Ritik Rajput · Profile design and original content are not authorized for redistribution. </div>
