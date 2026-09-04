@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ritik Rajput
 
-### Software Developer · Full-Stack Developer · Builder
+### Software Developer · Full-Stack Developer · App Developer · Builder
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Rrajput07git&style=for-the-badge" alt="Profile Views" />
