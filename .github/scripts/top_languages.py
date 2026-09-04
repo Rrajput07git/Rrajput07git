@@ -92,7 +92,7 @@ def calculate_languages(repositories):
 
 
 def create_svg(languages, output_file):
-    total = sum(languages.values())
+    total = sum(byte_count for _, byte_count in languages)
 
     width = 600
     height = 100 + (len(languages) * 34)
