@@ -133,14 +133,113 @@ I'm continuously working on becoming a better engineer by building, experimentin
 
 ## 📊 GitHub
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Rrajput07git">
     <img src="https://img.shields.io/github/followers/Rrajput07git?style=for-the-badge&logo=github" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/Rrajput07git?tab=stars">
     <img src="https://img.shields.io/github/stars/Rrajput07git?style=for-the-badge&logo=github" alt="GitHub Stars" />
   </a>
+</p> -->
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rrajput07git&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="Ritik Rajput GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrajput07git&layout=compact&langs_count=8&hide_border=true" alt="Ritik Rajput Top Languages" />
+</p>
+
+---
+
+### 📈 My GitHub Journey
+
+My GitHub is a reflection of my journey as a software developer — from writing my first lines of code to building full-stack and mobile applications.
+
+I use GitHub to **build, experiment, learn, collaborate, and continuously improve**.
+
+### 🚀 GitHub at a Glance
+
+<p align="center">
+  <a href="https://github.com/Rrajput07git">
+    <img src="https://img.shields.io/github/followers/Rrajput07git?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Rrajput07git?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="GitHub Repositories" />
+  </a>
+  <a href="https://github.com/Rrajput07git?tab=stars">
+    <img src="https://img.shields.io/github/stars/Rrajput07git?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
+  </a>
+</p>
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Rrajput07git/Rrajput07git/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Rrajput07git/Rrajput07git/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution activity"
+      src="https://raw.githubusercontent.com/Rrajput07git/Rrajput07git/output/github-snake.svg"
+    />
+  </picture>
+</p>
+
+### 📊 Contributions & Activity
+
+```text
+🔥 Total Contributions     → Growing every year
+💻 Projects & Repositories  → Continuously building
+⭐ Stars                    → Sharing useful projects
+📝 Commits                  → Consistently contributing
+👥 Followers                → Growing developer network
+🚀 Activity                 → Building and learning continuously
+```
+
+> **Every contribution represents another step in my journey as a developer.**
+
+### 🧑‍💻 From Starting Out to Now
+
+```text
+🌱 Learning
+    ↓
+💻 Writing Code
+    ↓
+🛠️ Building Projects
+    ↓
+🌐 Full-Stack Development
+    ↓
+📱 Mobile Development
+    ↓
+🚀 Production & Real-World Applications
+    ↓
+🧠 Continuous Learning & Improvement
+```
+
+### 🎯 Current Focus
+
+* 🚀 Building production-ready applications
+* 🌐 Full-stack web development
+* 📱 React Native development
+* 🐍 Python & Django
+* 🧠 Improving system design & engineering practices
+* 🤝 Open-source contribution
+* 📚 Learning and experimenting with new technologies
+
+<p align="center">
+  <a href="https://github.com/Rrajput07git">
+    <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My GitHub" />
+  </a>
+</p>
+
 
 ---
 
