@@ -147,13 +147,21 @@ I'm continuously working on becoming a better engineer by building, experimentin
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rrajput07git&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=followers" alt="Ritik Rajput GitHub Statistics" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rrajput07git&show_icons=true&count_private=true&include_all_commits=true&hide=followers&hide_border=true"
+    alt="Ritik Rajput GitHub Statistics"
+  />
 </p>
+
+---
 
 ### 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrajput07git&layout=compact&langs_count=8&hide_border=true" alt="Ritik Rajput Most Used Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrajput07git&layout=compact&langs_count=8&hide_border=true"
+    alt="Ritik Rajput Most Used Languages"
+  />
 </p>
 
 ---
@@ -161,7 +169,21 @@ I'm continuously working on becoming a better engineer by building, experimentin
 ### 🔥 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rrajput07git&hide_border=true" alt="Ritik Rajput GitHub Contribution Activity" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Rrajput07git&hide_border=true"
+    alt="Ritik Rajput GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+### 📊 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rrajput07git&theme=github-compact&hide_border=true"
+    alt="Ritik Rajput GitHub Contribution Graph"
+  />
 </p>
 
 ---
