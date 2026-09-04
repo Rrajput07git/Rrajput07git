@@ -117,7 +117,7 @@ I'm continuously working on becoming a better engineer by building, experimentin
   </picture>
 </p> -->
 
----
+
 
 ## 🎯 Current Goals
 
@@ -159,7 +159,7 @@ I'm continuously working on becoming a better engineer by building, experimentin
   />
 </p>
 
-
+---
 
 ### 🔥 GitHub Contributions
 
@@ -209,7 +209,6 @@ I'm continuously working on becoming a better engineer by building, experimentin
 
 </p> -->
 
----
 
 ### 🐍 Contribution Snake
 
@@ -288,19 +287,17 @@ My GitHub represents my journey as a developer — from learning the fundamental
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Rrajput07git">
-    <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My GitHub" />
-  </a>
-</p>
-
-
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
+  <!-- <p align="center"> -->
+  <a href="https://github.com/Rrajput07git">
+    <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My GitHub" />
+  </a>
+  <a href="https://github.com/Rrajput07git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> 
+  <a href="https://www.linkedin.com/in/ritikrajput447/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
+  <a href="mailto:rajputritik447@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
+<!-- </p> -->
   <a href="https://github.com/Rrajput07git">
     <img src="https://img.shields.io/badge/GitHub-Rrajput07git-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
