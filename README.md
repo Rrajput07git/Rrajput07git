@@ -98,9 +98,9 @@ I'm continuously working on becoming a better engineer by building, experimentin
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake -->
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -115,7 +115,7 @@ I'm continuously working on becoming a better engineer by building, experimentin
       src="https://raw.githubusercontent.com/Rrajput07git/Rrajput07git/output/github-snake.svg"
     />
   </picture>
-</p>
+</p> -->
 
 ---
 
@@ -144,23 +144,23 @@ I'm continuously working on becoming a better engineer by building, experimentin
 
 # 📊 GitHub Overview
 
-📈 GitHub Statistics
+<!-- 📈 GitHub Statistics -->
 
-<p align="center"> <img src="./profile/stats.svg" alt="Ritik Rajput GitHub Statistics" /> </p>
+<!-- <p align="center"> <img src="./profile/stats.svg" alt="Ritik Rajput GitHub Statistics" /> </p> -->
 
----
 
-### 💻 Most Used Languages
 
-<p align="center">
+<!-- ### 💻 Most Used Languages -->
+
+<!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrajput07git&layout=compact&langs_count=8&hide_border=true"
     alt="Ritik Rajput Most Used Languages"
   />
-</p>
+</p> -->
 
 
----
+
 
 ### 🔥 GitHub Contributions
 
@@ -171,16 +171,16 @@ I'm continuously working on becoming a better engineer by building, experimentin
   />
 </p>
 
----
 
-### 📊 Contribution Graph
 
-<p align="center">
+<!-- ### 📊 Contribution Graph -->
+
+<!-- <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Rrajput07git&theme=github-compact&hide_border=true"
     alt="Ritik Rajput GitHub Contribution Graph"
   />
-</p>
+</p> -->
 
 ---
 
