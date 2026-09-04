@@ -72,7 +72,7 @@ I'm a software developer focused on building modern web and mobile applications,
 | 🌐 Web       | HTML · CSS · JavaScript · React.js · Next.js |
 | 📱 Mobile    | React Native                                 |
 | ⚙️ Backend   | Python · Django                              |
-| 🗄️ Database | MySQL                                        |
+| 🗄️ Database  | MySQL                                        |
 
 I enjoy taking ideas from **concept → development → deployment**, with a focus on practical solutions and maintainable code.
 
