@@ -144,14 +144,9 @@ I'm continuously working on becoming a better engineer by building, experimentin
 
 # 📊 GitHub Overview
 
-### 📈 GitHub Statistics
+📈 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Rrajput07git&show_icons=true&count_private=true&include_all_commits=true&hide=followers&hide_border=true"
-    alt="Ritik Rajput GitHub Statistics"
-  />
-</p>
+<p align="center"> <img src="./profile/stats.svg" alt="Ritik Rajput GitHub Statistics" /> </p>
 
 ---
 
