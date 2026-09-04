@@ -197,9 +197,9 @@ I'm continuously working on becoming a better engineer by building, experimentin
 
 ---
 
-### 📊 GitHub Highlights
+<!-- ### 📊 GitHub Highlights -->
 
-<p align="center">
+<!-- <p align="center">
 
   <img src="https://img.shields.io/github/repos/Rrajput07git?style=for-the-badge&logo=github&label=Repositories" alt="GitHub Repositories" />
 
@@ -207,7 +207,7 @@ I'm continuously working on becoming a better engineer by building, experimentin
 
   <img src="https://img.shields.io/github/commit-activity/y/Rrajput07git?style=for-the-badge&logo=github&label=Commit%20Activity" alt="GitHub Commit Activity" />
 
-</p>
+</p> -->
 
 ---
 
