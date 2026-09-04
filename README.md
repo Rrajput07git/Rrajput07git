@@ -83,13 +83,13 @@ I enjoy taking ideas from **concept → development → deployment**, with a foc
 ```text
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
-│   💻  Building                                            │
-│   🌐  Developing Web Applications                         │
-│   📱  Exploring Mobile Development                        │
-│   🐍  Working with Python & Django                        │
-│   🧠  Learning                                            │
-│   🔧  Improving                                           │
-│   🚀  Shipping                                             │
+│   💻  Building                                           │
+│   🌐  Developing Web Applications                        │
+│   📱  Exploring Mobile Development                       │
+│   🐍  Working with Python & Django                       │
+│   🧠  Learning                                           │
+│   🔧  Improving                                          │
+│   🚀  Shipping                                           │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
