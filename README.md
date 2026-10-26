@@ -148,26 +148,29 @@ My goal is to become a stronger software engineer by solving practical problems,
 
 <div align="center">
 
-<a href="https://github.com/Rrajput07git">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rrajput07git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-</a>
-<a href="https://github.com/Rrajput07git">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrajput07git&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</a>
+<img src="https://github-stats-extended.vercel.app/api?username=Rrajput07git&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rrajput07git&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rrajput07git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Rrajput07git&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
 
-## `06` — CONTRIBUTION GRAPH
+## `06` — CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rrajput07git&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph"/>
+<img src="https://ghchart.rshah.org/7c3aed/Rrajput07git" alt="Ritik Rajput's GitHub Contribution Calendar" width="100%" />
+
+<br/><br/>
+
+**Every commit is progress. Every project is experience.**
 
 </div>
 
