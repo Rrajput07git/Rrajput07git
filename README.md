@@ -1,12 +1,10 @@
-<div align="center">
+ <div align="center">
 
 # ⚡ RITIK RAJPUT
 
 ### Software Engineer · Full-Stack Developer · Mobile App Developer
 
 **Turning ideas into software that works.**
-
-<br/>
 
 <a href="https://github.com/Rrajput07git">
   <img src="https://img.shields.io/badge/GitHub-Rrajput07git-181717?style=for-the-badge&logo=github" alt="GitHub"/>
@@ -18,72 +16,52 @@
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rrajput07git&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Rrajput07git&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## `01` — WHO AM I?
+## 👨‍💻 About Me
 
-```javascript
-const ritik = {
-    role: "Software Engineer",
-    company: "MelorraTech",
-    location: "India",
+I'm a software developer focused on building modern web applications, cross-platform mobile apps, and backend services. I enjoy solving real-world problems, integrating APIs, and writing clean, maintainable code.
 
-    development: [
-        "Web Applications",
-        "Cross-Platform Mobile Apps",
-        "Backend Services",
-        "Full-Stack Solutions"
-    ],
-
-    currentStack: {
-        frontend: ["React.js", "Next.js", "JavaScript"],
-        mobile: ["React Native"],
-        backend: ["Python", "Django"],
-        database: ["MySQL"],
-        tools: ["Git", "GitHub", "VS Code"]
-    },
-
-    mindset: "Learn. Build. Improve. Repeat."
-};
-```
-
-I enjoy building practical software that solves real problems. My work spans frontend development, mobile applications, backend APIs, and integrating different parts of an application into a reliable product.
-
-I believe in learning through building, keeping code maintainable, and continuously improving as an engineer.
+- 🚀 Building practical software solutions
+- 🌐 Developing modern web applications
+- 📱 Working with cross-platform mobile applications
+- ⚙️ Building backend APIs and integrations
+- 🧠 Continuously learning and improving
+- 🏢 Working with MelorraTech
 
 ---
 
-## `02` — TECH ARSENAL
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### FRONTEND ENGINEERING
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" alt="HTML, CSS, JavaScript, React and Next.js"/>
 
-### MOBILE DEVELOPMENT
+### Mobile Development
 
-<img src="https://skillicons.dev/icons?i=react" alt="React Native Development"/>
+<img src="https://skillicons.dev/icons?i=react" alt="React Native"/>
 
-### BACKEND & DATABASE
+### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=python,django,mysql" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=python,django,mysql" alt="Python, Django and MySQL"/>
 
-### DEVELOPER TOOLKIT
+### Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code and Postman"/>
 
 </div>
 
 ---
 
-## `03` — WHAT I BUILD
+## 🚀 What I Build
 
 <table>
 <tr>
@@ -91,18 +69,18 @@ I believe in learning through building, keeping code maintainable, and continuou
 
 ### 🌐 Web Applications
 
-Building responsive, modern web experiences with an emphasis on usability, performance, and maintainability.
+Responsive and modern web experiences with a focus on usability, performance, and maintainability.
 
-**Stack:** React.js · Next.js · JavaScript
+**Technologies:** React.js, Next.js, JavaScript
 
 </td>
 <td width="50%" valign="top">
 
 ### 📱 Mobile Applications
 
-Developing cross-platform mobile experiences and working on application features, integrations, and UI improvements.
+Cross-platform mobile experiences, application features, API integrations, and UI improvements.
 
-**Stack:** React Native · JavaScript
+**Technologies:** React Native, JavaScript
 
 </td>
 </tr>
@@ -111,18 +89,18 @@ Developing cross-platform mobile experiences and working on application features
 
 ### ⚙️ Backend Engineering
 
-Building APIs, implementing application logic, and connecting frontend experiences to backend services.
+API development, business logic, service integrations, and application workflows.
 
-**Stack:** Python · Django · REST APIs
+**Technologies:** Python, Django, REST APIs
 
 </td>
 <td width="50%" valign="top">
 
-### 🗄️ Data & Integrations
+### 🗄️ Database & Integration
 
-Working with relational databases, API integrations, and the services that power application features.
+Database-driven applications, API communication, and reliable application data flows.
 
-**Stack:** MySQL · REST APIs · Git
+**Technologies:** MySQL, REST APIs, Git
 
 </td>
 </tr>
@@ -130,65 +108,87 @@ Working with relational databases, API integrations, and the services that power
 
 ---
 
-## `04` — CURRENT MISSION
+## 🎯 Current Focus
 
 ```text
-[ ACTIVE ]  Building better web experiences
-[ ACTIVE ]  Developing cross-platform mobile apps
-[ ACTIVE ]  Improving backend engineering skills
+[ ACTIVE   ] Building production-ready applications
+[ ACTIVE   ] Improving React and Next.js development
+[ ACTIVE   ] Developing React Native applications
+[ ACTIVE   ] Working with Python and Django
 [ LEARNING ] System design and scalable architecture
-[ EXPLORING ] New tools, ideas, and technologies
+[ EXPLORING] New technologies and open-source projects
 ```
 
-My goal is to become a stronger software engineer by solving practical problems, understanding systems beyond the UI, and shipping useful applications.
+My goal is to become a stronger engineer by building useful products, understanding systems beyond the UI, and learning from real-world development challenges.
 
 ---
 
-## `05` — GITHUB ANALYTICS
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Rrajput07git&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+### 💻 GitHub Statistics
+
+<a href="https://github.com/Rrajput07git">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rrajput07git&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Ritik's GitHub Statistics"/>
+</a>
+<a href="https://github.com/Rrajput07git">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrajput07git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Ritik's Most Used Languages"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rrajput07git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+### 🔥 Contribution Streak
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Rrajput07git&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com/?user=Rrajput07git&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## `06` — CONTRIBUTION ACTIVITY
+## 📅 Contribution Calendar
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/7c3aed/Rrajput07git" alt="Ritik Rajput's GitHub Contribution Calendar" width="100%" />
+<a href="https://github.com/Rrajput07git">
+  <img src="https://ghchart.rshah.org/7c3aed/Rrajput07git" alt="GitHub Contribution Calendar" width="100%"/>
+</a>
+
+<br/>
+
+**Learn. Build. Contribute. Repeat.**
+
+</div>
+
+> Note: Contribution calendars and statistics are generated by external services. They may differ from GitHub's official figures or occasionally fail to load. For your authoritative contribution history, see your [GitHub profile](https://github.com/Rrajput07git).
+
+---
+
+## 🏢 Professional Community
+
+<div align="center">
+
+<a href="https://github.com/MelorraTech">
+  <img src="https://img.shields.io/badge/MelorraTech-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="MelorraTech GitHub Organization"/>
+</a>
 
 <br/><br/>
 
-**Every commit is progress. Every project is experience.**
+*Building and contributing to software projects.*
 
 </div>
 
 ---
 
-## `07` — THE JOURNEY CONTINUES
+## 🌱 My Developer Mindset
 
 <div align="center">
 
-**LEARN → BUILD → SHIP → IMPROVE → REPEAT**
+**LEARN → BUILD → TEST → SHIP → IMPROVE**
 
 <br/>
 
-I don't believe in knowing everything.
-
-I believe in staying curious enough to keep learning.
-
-<br/>
+I believe great software comes from curiosity, consistent practice, and solving real problems.
 
 ### 💻 Currently building. Always evolving. 🚀
 
@@ -196,13 +196,13 @@ I believe in staying curious enough to keep learning.
 
 ---
 
-## `08` — LET'S CONNECT
+## 🤝 Let's Connect
 
 <div align="center">
 
 Have an interesting project, an opportunity, or an idea worth discussing?
 
-Let's connect.
+Let's connect!
 
 <br/>
 
@@ -210,7 +210,7 @@ Let's connect.
   <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/ritikrajput447/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:rajputritik447@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
